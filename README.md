@@ -1,4 +1,4 @@
-# Job-Market-Trends-Forecasting
+# Job-Market-Trends-Analytics & Forecasting
 
 This project analyzes job market trends using **dbt**, **Snowflake**, and **Airflow**, providing insights into job demand, salary trends, and market dynamics.
 

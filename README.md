@@ -42,6 +42,26 @@ This project analyzes job market trends using **dbt**, **Snowflake**, and **Airf
    ```
 5. Visualize analytics in BI tools.
 
+## 📊 Visual Dashboard Insights
+
+### 🔍 Job Market Analysis
+It visualizes job salary trends , job demands, average salary and real time jon insights specific to various industries.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30598ac0-9518-4edb-9403-24b7219834b9" alt="Job Market Analysis Dashboard" width="800">
+</p>
+
+### ⚖️ Comparing Two Job Roles
+It  Provides comparisons of  job role based on salary, company and trending months.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cdb2348-12bb-438c-bd5c-6cad61eedfe7" alt="Comparing Two Job Roles" width="800">
+</p>
+
+### ⏱️ Real-Time Job Market Insights
+Displays live job openings by location, salary and companies.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba7b1ed1-ad2f-4431-82f1-d89722f2c0bb" alt="Real Time Job Market Insights" width="800">
+</p>
+
 ## **Future Enhancements**
 - Integrate with more job listing platforms.
 - Expand analysis to include skill-based insights.
